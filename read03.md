@@ -26,20 +26,20 @@ and then apply that on a white paper using these instructions ![follow this link
 - [open this link for more information about Wireframe ](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 ### Semantics in HTML 
 - In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
-- and in HTML thier is a Semantics you can recognize it from its name like <header> or <footer>
+- and in HTML thier is a Semantics you can recognize it from its name like < header> or < footer>
 - and These are some of the roughly 100 semantic elements available:
-- <article>
-- <aside>
-- <details>
-- <figcaption>
-- <figure>
-- <footer>
-- <header>
-- <main>
-- <mark>
-- <nav>
-- <section>
-- <summary>
-- <time>
+- < article>
+- < aside>
+- < details>
+- < figcaption>
+- < figure>
+- < footer>
+- < header>
+- < main>
+- < mark>
+- < nav>
+- < section>
+- < summary>
+- < time>
 
 
