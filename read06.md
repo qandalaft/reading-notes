@@ -55,3 +55,73 @@ CSS removed the style formatting from the HTML page!
 
 With an external stylesheet file, you can change the look of an entire website by changing just one file!
 
+# **CSS Selectors**
+- A CSS selector selects the HTML element(s) you want to style.
+1. The element selector
+
+ selects HTML elements based on the element name.
+- for example:- 
+
+ Here, all <p> elements on the page will be center-aligned, with a red text color: 
+
+ p {
+
+  text-align: center;
+
+  color: red;
+
+}
+
+2. The CSS id Selector
+
+The id selector uses the id attribute of an HTML element to select a specific element.
+
+The id of an element is unique within a page, so the id selector is used to select one unique element!
+
+To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+- for example:- 
+
+The CSS rule below will be applied to the HTML element with id="para1": 
+
+#para1 {
+
+  text-align: center;
+
+  color: red;
+}
+ 
+ 3. The CSS class Selector
+
+ The class selector selects HTML elements with a specific class attribute.
+
+To select elements with a specific class, write a period (.) character, followed by the class name.
+
+- for example:- 
+
+.center {
+  text-align: center;
+  color: red;
+}
+
+4. The CSS Universal Selector
+
+The CSS rule below will affect every HTML element on the page: 
+
+* {
+  text-align: center;
+  color: blue;
+}
+
+5. The CSS ID  Selector
+
+The CSS ID selector matches an element based on the value of the element’s id attribute. In order for the element to be selected, its id attribute must match exactly the value given in the selector.
+- for example:- 
+
+/* The element with id="demo" */
+
+
+#demo {
+  
+  border: red 2px solid;
+}
+
