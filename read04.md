@@ -7,6 +7,7 @@
 - Operations on pieces of text (known as "strings" in programming). In the above example we take the string "Player 1: " and join it to the name variable to create the complete text label, e.g. ''Player 1: Chris".
 - Running code in response to certain events occurring on a web page. We used a click event in our example above to detect when the button is clicked and then run the code that updates the text label.
 - and much more 
+<<<<<<< HEAD
 ### now How we use JavaScript
 - we can use JavaScript with the [HTML](https://qandalaft.github.io/reading-notes/read03) 
 in 2 ways 
@@ -20,6 +21,8 @@ and the Syntax is :
 - this way can be achieved by using Script tag inside the body of the HTML and add (src=”file name.js”) to link the JS file with the HTML page 
 and write the code inside the file itself and this is the best practices to use JavaScript with the HTML
 
+=======
+>>>>>>> 6cfaaabda379a6076c0b11a45725a226cae5f319
 
 
 
