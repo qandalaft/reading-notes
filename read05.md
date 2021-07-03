@@ -27,5 +27,52 @@ The code 3 + 4 is an example of the second expression type. This expression uses
 A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. The following table describes the comparison operators in terms of this sample code:
 - var var1 = 3;
 - var var2 = 4;
+- Arithmetic operators
+An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/). These operators work as they do in most other programming languages when used with floating point numbers (in particular, note that division by zero produces Infinity). For example:
+- 1 / 2; // 0.5
+1 / 2 == 1.0 / 2.0; // this is true
+- In addition to the standard arithmetic operations (+, -, *, /), JavaScript provides the arithmetic operators listed in the following table:
+
+Operator  | Description
+------------ | -------------
+Remainder (%)	 | Binary operator. Returns the integer remainder of dividing the two operands.
+Increment (++)| Unary operator. Adds one to its operand. If used as a prefix operator (++x), returns the value of its operand after adding one; if used as a postfix operator (x++), returns the value of its operand before adding one.
+Decrement (--) | Unary operator. Subtracts one from its operand. The return value is analogous to that for the increment operator.
+Unary negation (-) | Unary operator. Returns the negation of its operand.
+Unary plus (+)| 	Unary operator. Attempts to convert the operand to a number, if it is not already.
+Exponentiation operator (**)| 	Calculates the base to the exponent power, that is, base^exponent
+
+## what is loops?
+- Loops simpley is
+ offer a quick and easy way to do something repeatedly
+ - **and we have many types of loops in jacascript**
+
+ 1. for statement
+ 2. do...while statement
+3. while statement
+4. labeled statement
+5. break statement
+6. continue statement
+7. for...in statement
+8. for...of statement  
+- *for statement*
+A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+
+A for statement looks as follows:
+for ([initialExpression]; [conditionExpression]; [incrementExpression])
+  statement
+- *do...while statement*
+- The do...while statement repeats until a specified condition evaluates to false.
+
+A do...while statement looks as follows:
+do
+  statement
+while (condition);
+- *while statement*
+- A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
+- while (condition)
+
+  statement
+  
 
 
