@@ -20,9 +20,40 @@ and the Syntax is :
 2. creating JS. file 
 - this way can be achieved by using Script tag inside the body of the HTML and add (src=”file name.js”) to link the JS file with the HTML page 
 and write the code inside the file itself and this is the best practices to use JavaScript with the HTML
+#### now how we wirte the code inside JavaScript
+- The JavaScript syntax defines two types of values:
+1. Fixed values
+2. Variable values
+- Fixed values are called Literals.
+- Variable values are called Variables.
+#### JavaScript Literals
+- The two most important syntax rules for fixed values are:
+1. Numbers are written with or without decimals like 
+: 10,90,2 or 
 
-=======
->>>>>>> 6cfaaabda379a6076c0b11a45725a226cae5f319
+2.5,3.6 etc..........
+
+2. Strings are text, written within double or single quotes like:
+
+"John Doe"
+'John Doe'
+#### JavaScript Variables
+- In a programming language, variables are used to store data values.
+
+JavaScript uses the keywords var, let and const to declare variables.
+
+An equal sign is used to assign values to variables.
+
+In this example, x is defined as a variable. Then, x is assigned (given) the value 6:
+let x;
+x = 6; or
+
+var y = 50 now in JavaScript programming languag we can put the ; or without 
+ 
+
+
+
+
 
 
 
