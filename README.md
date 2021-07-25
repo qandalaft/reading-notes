@@ -16,7 +16,7 @@ content  | link
 ------------ | -------------
 Growth Mindset	 | [go to the link](https://www.mindsetworks.com/science/)
 Read 01a | [go read 01a](https://qandalaft.github.io/reading-notes/read01a)
-class 01 | [go read 01a](https://qandalaft.github.io/reading-notes/read01a)
+class 01 | [go read class 01](https://qandalaft.github.io/reading-notes/class01)
 
 
 
