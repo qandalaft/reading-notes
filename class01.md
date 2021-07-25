@@ -348,7 +348,40 @@ to indicate the role of the `<div>` element in the structure of the page
     </div>
     </div>
     </body>
+   ```
+   **nowadays the code become look like**
+   ```html
+   </body>
+   <div id="page">
+<header>
+  <nav>
+    <div id="content">
+      <aside>
+        <article>
+          <article>
+  <footer>
     ```
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
 
  
 
