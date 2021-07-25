@@ -321,6 +321,39 @@ known as block level elements
 *Examples of block elements are 
 `<h1>`,` <p>`,` <ul>`, and `<li>`*
 
+## traditional HTML Layouts 
+* For a long time, web page authors used <div> elements to group 
+together related elements on the page (such as the elements that form a 
+header, an article, footer or sidebar). Authors used class or id attributes 
+to indicate the role of the `<div>` element in the structure of the page
+
+** and the code was written this way **
+```html
+<body>
+  <div id="page">
+<div id="nav">
+<div id="content">
+<div class="article">
+  <div class="article">
+<div id=
+"sidebar">
+<div class="article">
+  <div id="footer">
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </body>
+    ```
+
+ 
+
+
+
 
 
 
