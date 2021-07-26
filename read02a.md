@@ -229,6 +229,283 @@ markup
 ```
 
 
+# Introducing  CSS
+ now we going to talking about these topics
+
+ 1. What CSS does 
+
+ 2. How CSS works
+
+ 3.  Rules, properties, and values
+ <hr/>
+
+ *  **Introduction **
+
+
+ In this section, we will look at how to 
+make your web pages more attractive, 
+controlling the design of them using CSS.
+>CSS allows you to create rules that specify how the content of 
+an element should appear. For example, you can specify that 
+the background of the page is cream, all paragraphs should 
+appear in gray using the Arial typeface, or that all level one 
+headings should be in a blue, italic, Times typeface.
+
+* CSS Associates Style 
+rules with HTML 
+elements
+
+CSS works by associating rules with HTML elements. These rules govern 
+how the content of specified elements should be displayed. A CSS rule 
+contains two parts: a `selector` and a `declaration`
+
+**Selectors :** indicate which 
+element the rule applies to. 
+The same rule can apply to 
+more than one element if you 
+separate the element names 
+with commas.
+
+**Declarations : ** indicate how 
+the elements referred to in 
+the selector should be styled. 
+Declarations are split into two 
+parts (a property and a value), 
+and are separated by a colon.
+
+**CSS Properties Affect 
+How Elements Are 
+Displayed**
+
+* CSS declarations sit inside curly brackets and each is made up of two 
+parts: a property and a value, separated by a colon. You can specify 
+several properties in one declaration, each separated by a semi-colon.
+
+like this 
+```css
+h1, h2, h3 {
+ font-family: Arial;
+ color: yellow;}`
+ ```
+ `Properties` "in red color" indicate the aspects 
+of the element you want to 
+change. For example, color, font, 
+width, height and border
+
+`Values`"in blue color" specify the settings 
+you want to use for the chosen 
+properties. For example, if you 
+want to specify a color property 
+then the value is the color you 
+want the text in these elements 
+to be.
+
+**and Example**
+```html
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Introducing CSS</title>
+ <link href="css/example.css" type="text/css" 
+ rel="stylesheet" />
+</head>
+<body>
+ <h1>From Garden to Plate</h1>
+ <p>A <i>potager</i> is a French term for an 
+ ornamental vegetable or kitchen garden ... </p>
+ <h2>What to Plant</h2>
+ <p>Plants are chosen as much for their functionality 
+ as for their color and form ... </p>
+</body>
+</html>
+```
+and this is the css code 
+```css
+body {
+font-family: Arial, Verdana, sans-serif;}
+h1, h2 {
+color: #ee3e80;}
+p {
+color: #665544;}
+```
+
+>the numbers after `#` it call hexadecimel color numbers and we will talk about it later on 
+
+**CSS Selectors**
+* There are many different types 
+of CSS selector that allow you to 
+target rules to specific elements 
+in an HTML document. 
+The table below
+introduces the most commonly 
+used CSS selectors.
+
+Selector  | Meaning | Example
+------------ | ---------------------------------------------- | -------------
+Universal Selector	 | Applies to all elements in the document | `* {}`
+Type Selector	 | Matches element names document | `h1, h2, h3 {}`
+ 
+
+# basic Javascript instructions
+* new we will take about read and write 
+JavaScrip
+> like any new language, there are new 
+words to learn (the vocabulary) and rules 
+for how these can be put together (the 
+grammar and syntax of the language)
+
+1. STATEMENTS
+* A script is a series of instructions that a computer can follow one-by-one. 
+Each individual instruction or step is known as a statement. 
+Statements should end with a semicolon.
+
+an Example for JavaScrip code 
+```JAVASCRIPT
+var today= new Date(); 
+var hourNow = today.getHours() ; 
+var greeting;
+```
+
+
+>**JAVASCRIPT IS CASE SENSITIVE** 
+
+>JavaScript is case sensitive so hourNow means 
+something different to HourNow or HOURNOW.
+
+*COMMENTS*
+
+You should write* comments* to explain what your code does. 
+They help make your code easier to read and understand. 
+This can help you and others who read your code.
+and the commint in JavaScrip written in tis way 
+
+one line *comment*
+`// one line comment`
+multi line comment 
+```
+/*this is comment on multi 
+line 
+line
+more line 
+.......ect
+way*/
+```
+* the VARIABLE in JavaScrip
+
+A script will have to temporarily 
+store the bits of information it 
+needs to do its job. It can store this 
+data in variables. 
+>When you write JavaScript, you have to tell the 
+interpreter every individual step that you want it to 
+perform. This sometimes involves more detail than 
+you might expect.
+>When you write JavaScript, you have to tell the 
+interpreter every individual step that you want it to 
+perform. This sometimes involves more detail than 
+you might expect.
+
+* how to declare a variables in JavaScrip
+
+ we must know some keyword to declare a variables in JavaScrip like `var`
+ and `let` and many other key word 
+ now if you want to make the declaration you must to write the key word and the `name` of the variable like belw Example:
+
+ `var name;`
+ > do not forget the `;` its called semicolon
+
+ * now you must give the variable a value 
+
+ you can do it by this symbol `=` in programming field its calls assignment operator 
+ like the example below
+
+ `var age = 3`
+
+ * data taype is JavaScrip
+
+ JavaScript distinguishes between numbers, 
+strings, and true or false values known as 
+Booleans. 
+
+NUMERIC DATA TYPE 
+The numeric data type handles 
+numbers. 
+>For tasks that involve counting 
+or calculating sums, you will 
+use numbers 0-9. For example, 
+five thousand, two hundred and 
+seventy-two would be written 
+5272 (note there is no comma 
+between the thousands and 
+the hundreds). You can also 
+have negative numbers (such 
+as -23678) and decimals (three 
+quarters is written as 0.75).
+
+STRING DATA TYPE 
+The strings data type consists of 
+letters and other characters
+Note how the string data type is 
+enclosed within a pair of quotes. 
+These can be single or double 
+quotes, but the opening quote 
+must match the closing quote. 
+Strings can be used when 
+working with any kind of text. 
+They are frequently used to add 
+new content into a page and they 
+can contain HTML markup. 
+
+BOOLEAN DATA TYPE 
+Boolean data types can have one 
+of two values: true or false.
+>It might seem a little abstract at 
+first, but the Boolean data type is 
+actually very helpful. 
+You can think of it a little like a 
+light switch - it is either on or off. 
+As you will see in Chapter 4, 
+Booleans are helpful when 
+determining which part of a 
+script should run.
+
+
+
+
+
+
+
+
+
+`
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
