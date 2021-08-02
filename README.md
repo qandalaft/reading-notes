@@ -21,6 +21,7 @@ Read 02a | [go read 02a](https://qandalaft.github.io/reading-notes/read02a)
 Read 03a | [go read 03a](https://qandalaft.github.io/reading-notes/read03a)
 Read 04a | [go read 04a](https://qandalaft.github.io/reading-notes/read04a)
 Read 05a | [go read 05a](https://qandalaft.github.io/reading-notes/read05a)
+Read 06a | [go read 06a](https://qandalaft.github.io/reading-notes/read06a)
 
 
 
