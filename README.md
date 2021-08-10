@@ -3,7 +3,7 @@
 
 ## Code 102 Reading Notes
 content  | link
------------- | -------------
+----------------------- | ---------------------------------
 Growth Mindset	 | [go to the link](https://www.mindsetworks.com/science/)
 Read 01 | [go read 01](https://qandalaft.github.io/reading-notes/read01)
 Read 02 | [go read 02](https://qandalaft.github.io/reading-notes/read02)
@@ -13,7 +13,7 @@ Read 05 | [go read 05](https://qandalaft.github.io/reading-notes/read05)
 Read 06 | [go read 06](https://qandalaft.github.io/reading-notes/read06)
 ###  Code 201 Reading Notes
 content  | link
------------- | -------------
+------------------| --------------------
 Growth Mindset	 | [go to the link](https://www.mindsetworks.com/science/)
 Read 01a | [go read 01a](https://qandalaft.github.io/reading-notes/read01a)
 class 01 | [go read class 01](https://qandalaft.github.io/reading-notes/class01)
@@ -29,6 +29,7 @@ Read 010a | [go read 010a](https://qandalaft.github.io/reading-notes/read010a)
 Read 011a | [go read 011a](https://qandalaft.github.io/reading-notes/read011a)
 Read 012a | [go read 012a](https://qandalaft.github.io/reading-notes/read012a)
 Read 013a | [go read 013a](https://qandalaft.github.io/reading-notes/read013a)
+Read 014a | [go read 014a](https://qandalaft.github.io/reading-notes/read014a)
 Read 014a | [go read 014a](https://qandalaft.github.io/reading-notes/read014a)
 
 
