@@ -29,6 +29,7 @@ Read 010a | [go read 010a](https://qandalaft.github.io/reading-notes/read010a)
 Read 011a | [go read 011a](https://qandalaft.github.io/reading-notes/read011a)
 Read 012a | [go read 012a](https://qandalaft.github.io/reading-notes/read012a)
 Read 013a | [go read 013a](https://qandalaft.github.io/reading-notes/read013a)
+Read 014a | [go read 014a](https://qandalaft.github.io/reading-notes/read014a)
 
 
 
