@@ -6,13 +6,14 @@
 
 | content  | link|
 | ------------- | ------------- |
-| Growth Mindset| [go to the link](https://www.mindsetworks.com/science/)|
+|Growth Mindset| [go to the link](https://www.mindsetworks.com/science/)|
 |Read 01 | [go read 01](https://qandalaft.github.io/reading-notes/read01)|
 |Read 02 | [go read 02](https://qandalaft.github.io/reading-notes/read02)|
 |Read 03 | [go read 03](https://qandalaft.github.io/reading-notes/read03)|
 |Read 04 | [go read 04](https://qandalaft.github.io/reading-notes/read04)|
 |Read 05 | [go read 05](https://qandalaft.github.io/reading-notes/read05)|
 |Read 06 | [go read 06](https://qandalaft.github.io/reading-notes/read06)|
+
 ###  Code 201 - Foundations of Software Developmen
 
 | content  | link|
@@ -40,9 +41,8 @@
 | content  | link|
 | ------------- | ------------- |
 |Growth Mindset| [go to the link](https://www.mindsetworks.com/science/)|
-|Growth Mindset| [go to the link](https://www.mindsetworks.com/science/)|
+|read:class01| [go to the link](https://qandalaft.github.io/reading-notes/read:class01)|
 
 ## Code 401 - Advanced Software Development
 
-| content  | link|
-| ------------- | ------------- |
+
