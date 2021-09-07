@@ -42,6 +42,7 @@
 | ------------- | ------------- |
 |Growth Mindset| [go to the link](https://www.mindsetworks.com/science/)|
 |read:class01| [go to the link](https://qandalaft.github.io/reading-notes/read:class01)|
+|read:class02| [go to the link](https://qandalaft.github.io/reading-notes/read:class02)|
 
 ## Code 401 - Advanced Software Development
 
